@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HandsOnHorinzon</string>
+    <string name="surfista">Surfista</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="bateria">Bateria</string>
+    <string name="onda">Onda</string>
+    <string name="excluir">Excluir</string>
+    <string name="selecionar">Buscar</string>
+    <string name="alterar">Alterar</string>
+    <string name="adiciona">Adicionar</string>
+    <string name="alterarSurfista">Alterar Surfista</string>
+    <string name="nome">Nome:</string>
+    <string name="Pais">País:</string>
+    <string name="nota">Nota:</string>
+    <string name="buscaTodos">Buscar Todos</string>
+    <string name="identificadorSurfista1">Identificador do Primeiro Surfista:</string>
+    <string name="identificadorSurfista2">Identificador do Segundo Surfista:</string>
+    <string name="idetificadorBateria">Identificador da Bateria:</string>
+
+
+</resources>

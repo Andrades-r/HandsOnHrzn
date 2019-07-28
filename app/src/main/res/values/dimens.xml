@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wdithBotaoInicial">180dp</dimen>
+    <dimen name="hiegthBotaoInicial">60dp</dimen>
+    <dimen name="tituloSize">30sp</dimen>
+    <dimen name="campoSIze">26sp</dimen>
+</resources>
